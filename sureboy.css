@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Oi&display=swap');
+
+
+body{
+    background-color: black;
+    margin: 0 0 0 0;
+    font-family: 'Bungee', cursive;
+}
+
+.links{
+    margin: 40px 0 0 0;
+    font-size: 2rem;
+    text-align: center;
+    color: dodgerblue;
+}
+
+.links a { 
+color: lightpink; 
+padding-left: 10px;
+padding-right: 10px;
+text-decoration: none;
+}
+
+
+.image {
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 80px;
+}
+
+.saturn {
+    padding-left: 60px;
+}
+
+.Gigs {
+    color: dodgerblue;
+    font-size: 1.30rem;
+     padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.Photos {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.Photos img {
+   padding-left: 20px;
+    padding-right: 20px; 
+}
+    
+    
