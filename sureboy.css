@@ -59,12 +59,17 @@ text-decoration: none;
     padding-top: 800px;
     
 }
-   
+ 
+.photoshoot {
+    padding-top: 40px;
+    padding-left: 88px;
+    padding-right: 88px
+}
+
 .photoshoot img {
-    border: 100px 100px 100px 100px;
-    border-bottom-width: thick;
-    border-color: white;
-    padding-left: 200px;
-    padding-right: 200px;
+    border: 5px solid;
+    border-color: palegreen; 
+    margin-left: 10px;
+    margin-right: 10px;
 }
     
