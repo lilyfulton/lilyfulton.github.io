@@ -59,5 +59,12 @@ text-decoration: none;
     padding-top: 800px;
     
 }
-    
+   
+.photoshoot img {
+    border: 100px 100px 100px 100px;
+    border-bottom-width: thick;
+    border-color: white;
+    padding-left: 200px;
+    padding-right: 200px;
+}
     
