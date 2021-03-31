@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Oi&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Raleway:wght@200&display=swap');
 
 
 body{
@@ -77,8 +77,17 @@ text-decoration: none;
     
 .info {
     color: white;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'PT Serif', serif;
     font-size: 1rem;
     padding-left: 60px;
     padding-right: 60px;
+}
+
+.info h1 {
+    color: dodgerblue;
+    font-family: 'PT Serif', serif;
+    
+}
+.info h3 {
+    color: lightpink;
 }
