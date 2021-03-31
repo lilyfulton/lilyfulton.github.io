@@ -91,3 +91,26 @@ text-decoration: none;
 .info h3 {
     color: lightpink;
 }
+
+.phone {
+    font-size: 2rem;
+    padding-top: 80px;
+    padding-left: 600px;
+    padding-right: 600px;
+}
+
+.phone a {
+    color: dodgerblue;
+}
+
+.email {
+      color: palegreen;
+    font-size: 2rem;
+    padding-top: 80px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.email a {
+    color: pink;
+}
