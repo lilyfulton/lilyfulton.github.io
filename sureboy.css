@@ -73,3 +73,8 @@ text-decoration: none;
     margin-right: 10px;
 }
     
+.info {
+    color: white;
+    font-size: 0.75rem;
+    padding-left: 60px;
+}
