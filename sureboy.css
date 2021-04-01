@@ -26,19 +26,16 @@ text-decoration: none;
 .image {
     padding-left: 200px;
     padding-right: 200px;
-    padding-top: 80px;
-}
-
-.saturn {
-    padding-left: 60px;
+    padding-top: 50px;
 }
 
 .Gigs {
     color: dodgerblue;
     font-size: 1.30rem;
-    margin: 50px 50px 10px 50px
-    border: 5px solid;
-    border-color: mediumpurple;
+     padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 10px;
 }
 
 .Photos {
