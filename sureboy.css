@@ -23,7 +23,6 @@ padding-right: 10px;
 text-decoration: none;
 }
 
-
 .image {
     padding-left: 200px;
     padding-right: 200px;
@@ -41,6 +40,8 @@ text-decoration: none;
     padding-right: 50px;
     padding-top: 50px;
     padding-bottom: 10px;
+    border: 5px solid;
+    border-color: mediumpurple;
 }
 
 .Photos {
@@ -93,35 +94,43 @@ text-decoration: none;
 }
 
 .manager {
-    font-size: 2rem;
-    padding-top: 75px;
-    padding-left: 355px;
-    padding-right: 355px;
+    font-size: 1.95rem;
+    margin: 50px 355px 0px 355px;
     padding-bottom: none;
 }
 
 .manager h2 {
+    border: 5px solid;
+    border-color: mediumpurple;
      color: dodgerblue;
+   
 }
     
 .phone {
     font-size: 2rem;
-    padding-top: 50px;
+    padding-top: 0px;
     padding-left: 600px;
     padding-right: 600px;
 }
 
 .phone a {
-    color: palegreen;
+    color: pink;
 }
 
 .email {
     font-size: 2rem;
-    padding-top: 50px;
+    padding-top: 25px;
     padding-left: 500px;
     padding-right: 500px;
 }
 
 .email a {
-    color: palegoldenrod;
+    color: dodgerblue;
+}
+
+.moon1 img{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
 }
